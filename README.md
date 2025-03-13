@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Lending Library App is a full-stack application developed as a class project for "CS444: Programming for the Web" at Binghamton University during the Spring 2024 semester. It features a React frontend, an Express backend, and a MongoDB database.
+The Lending Library App is a full-stack application developed as a class project for "CS544: Programming for the Web" at Binghamton University during the Spring 2024 semester. It features a React frontend, an Express backend, and a MongoDB database.
 
 - **Frontend:** Built with React to provide a dynamic and responsive user interface.
 - **Backend:** Developed using Express to handle API requests and business logic.
